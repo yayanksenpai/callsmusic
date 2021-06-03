@@ -34,6 +34,15 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/callsmusic)
 
+### 🌃 Clever Cloud
+
+1. Fork this repo or apply my commits to your own fork of the original repo.
+
+2. Connect your forked repo to your Clever Cloud account.
+
+3. Fill the variables as they are listed in app.json.
+
+4. Deploy it.
 ## ℹ️ Commands
 
 | Command | Description                                          |
